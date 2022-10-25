@@ -6,14 +6,10 @@ body {
 
 }
 
-main {
-    height: 100vh;
-    width: 100vw;
-}
 
 #imga {
     height: 100vh;
-    width: 60vw;
+    width: 100vw;
     background-image: url(803f1b72-fd0a-4dfe-a11b-d43198b001d5.jpg);
     background-repeat: no-repeat;
     background-size: contain;
