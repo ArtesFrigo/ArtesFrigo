@@ -7,9 +7,10 @@ body {
 }
 
 
-img {
+#img2 {
     height: 100vh;
     width: 100vw;
-    display: block;
-    margin: auto;
+    background-image: url("803f1b72-fd0a-4dfe-a11b-d43198b001d5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
