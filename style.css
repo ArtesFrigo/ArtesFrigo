@@ -10,7 +10,7 @@ body {
     width: 100%;
     background-image: url(803f1b72-fd0a-4dfe-a11b-d43198b001d5.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     display: flex;
 }
 
