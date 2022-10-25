@@ -5,7 +5,12 @@ body {
     padding: 0;
 }
 
-img {
-    height: 99vh;
-    width: 99vw;
+#img {
+    height: 100%;
+    width: 100%;
+    background-image: url(803f1b72-fd0a-4dfe-a11b-d43198b001d5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
 }
+
