@@ -3,14 +3,20 @@
 body {
     margin: 0;
     padding: 0;
+
 }
 
-#img {
-    height: 100%;
-    width: 100%;
+main {
+    height: 100vh;
+    width: 100vw;
+}
+
+#imga {
+    height: 100vh;
+    width: 60vw;
     background-image: url(803f1b72-fd0a-4dfe-a11b-d43198b001d5.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    display: flex;
+    background-size: contain;
+    margin: auto;
 }
 
